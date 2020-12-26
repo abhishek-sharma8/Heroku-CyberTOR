@@ -133,7 +133,7 @@ torrent: {
 
 sites available piratebay, 1337x, limetorrent
 
-## Copyright
+## Copyright to the creator
 
 > The Script is a Child Script of [patheticGeek/torrent-aio-bot](https://github.com/patheticGeek/torrent-aio-bot)
 
